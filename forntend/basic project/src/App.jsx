@@ -19,6 +19,7 @@ function App() {
 
   return (
     <>
+    <h2>how to start backend</h2>
       <h1>SYSTEM HANG HO GYA H</h1>
       <h2>jokes: {jokes.length}</h2>
       {
